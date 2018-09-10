@@ -1,0 +1,2 @@
+virtualenv -p python3 _pelican
+source ./_pelican/bin/activate
