@@ -4,7 +4,7 @@
         <h1>Header</h1>
     </header>
     <div id="grid2">
-        <Menu msg="" />
+        <Menu msg="app" />
         <Content msg="" />
     </div>
     <footer>
